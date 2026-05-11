@@ -16,7 +16,7 @@
 
 ## About Me
 
-- I am an Information Technology student at Ton Duc Thang University
+- I am an Computer Science student at Ton Duc Thang University
 - I am interested in Artificial Intelligence, Data Analysis, and Machine Learning
 - I work with data to discover insights, build reports, and support decision-making
 - Currently learning Python, SQL, Java, C, Machine Learning, and Data Visualization
@@ -75,11 +75,11 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeNhatHuy219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeNhatHuy219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNhatHuy219&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeNhatHuy219&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
