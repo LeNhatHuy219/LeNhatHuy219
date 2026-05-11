@@ -16,10 +16,11 @@
 
 ## About Me
 
+- I am an Information Technology student at Ton Duc Thang University
 - I am interested in Artificial Intelligence, Data Analysis, and Machine Learning
 - I work with data to discover insights, build reports, and support decision-making
-- Currently learning Python, SQL, Machine Learning, and Data Visualization
-- Interested in real-world projects involving prediction, classification, and analytics
+- Currently learning Python, SQL, Java, C, Machine Learning, and Data Visualization
+- Interested in real-world projects involving prediction, classification, analytics, and computer vision
 - Open to learning, teamwork, and collaboration on AI/Data projects
 
 ---
@@ -27,7 +28,7 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="mailto:chatgptgo205@gmail.com">
+  <a href="mailto:lenhathuy219@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/LeNhatHuy219">
@@ -40,7 +41,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,postgres,sklearn,tensorflow,pytorch,opencv,anaconda,vscode,git,github,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,mysql,mongodb,postgres,sklearn,tensorflow,pytorch,opencv,anaconda,vscode,git,github,docker&perline=8" />
 </p>
 
 ---
@@ -74,7 +75,10 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeNhatHuy219&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeNhatHuy219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNhatHuy219&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -97,4 +101,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 </p>
-
