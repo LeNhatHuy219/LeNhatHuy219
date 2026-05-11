@@ -40,9 +40,6 @@ open_to    : Internships, Collaborations, Open Source
 ```
 
 </td>
-<td valign="center" width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
-</td>
 </tr>
 </table>
 
