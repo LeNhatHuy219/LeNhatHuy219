@@ -49,13 +49,14 @@ open_to    : Internships, Collaborations, Open Source
 
 <p align="center">
   <a href="mailto:lenhathuy219@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/LeNhatHuy219">
-    <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 ---
 
@@ -70,13 +71,13 @@ open_to    : Internships, Collaborations, Open Source
 ## <img src="https://cdn.simpleicons.org/anaconda/f472b6" width="24" align="center"/> &nbsp;Data & AI Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-F472B6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=020617" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-EC4899?style=for-the-badge&logo=numpy&logoColor=white&labelColor=020617" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF4FD8?style=for-the-badge&logo=python&logoColor=white&labelColor=020617" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-DB2777?style=for-the-badge&logo=python&logoColor=white&labelColor=020617" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Power%20BI-1E3A8A?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=020617" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Google%20Colab-7C2D92?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=020617" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Jupyter-0B1F4D?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=020617" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
