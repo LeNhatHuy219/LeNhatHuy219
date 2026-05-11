@@ -118,16 +118,6 @@ open_to    : Internships, Collaborations, Open Source
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/a78bfa" width="24" align="center"/> &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeNhatHuy219&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNhatHuy219&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" />
-</p>
-
----
-
 ## <img src="https://cdn.simpleicons.org/duolingo/a78bfa" width="24" align="center"/> &nbsp;GitHub Streak
 
 <p align="center">
