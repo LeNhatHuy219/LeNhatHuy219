@@ -18,59 +18,49 @@
 
 ## <img src="https://cdn.simpleicons.org/apachespark/38bdf8" width="24" align="center"/> &nbsp;About Me
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td>
 
-### Hi, I'm Le Nhat Huy
+```bash
+$ whoami
 
-I'm a Computer Science student from Ho Chi Minh City, Vietnam, with a strong interest in Artificial Intelligence, Data Analysis, Machine Learning, and Computer Vision.
+Le Nhat Huy
+Computer Science Student
+AI Enthusiast | Data Analyst | ML Learner
+```
 
-I enjoy working with data, building models, and turning ideas into practical projects. My current focus is improving my foundation in programming, machine learning algorithms, and data-driven problem solving.
+```bash
+$ current_focus
 
-</td>
-<td width="45%" valign="top">
+> strengthening programming fundamentals
+> analyzing data and finding useful patterns
+> learning machine learning and deep learning
+> exploring NLP, computer vision, and AI applications
+```
 
-```yaml
-name       : Le Nhat Huy
-location   : Ho Chi Minh City, Vietnam
-university : Ton Duc Thang University
-major      : Computer Science
+```bash
+$ learning_path
 
-currently  :
-  - Learning Python, SQL, Java, C
-  - Exploring ML algorithms
-  - Building data-driven projects
-
-open_to    :
-  - Internships
-  - Collaborations
-  - Open Source
+Python      -> Data Analysis -> Machine Learning
+SQL         -> Databases     -> Data-driven Projects
+Deep Learning -> NLP         -> Computer Vision
 ```
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Enthusiast-2563EB?style=flat-square" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Data-Analyst-0EA5E9?style=flat-square" alt="Data Analyst" />
-  <img src="https://img.shields.io/badge/ML-Learner-1D4ED8?style=flat-square" alt="ML Learner" />
-  <img src="https://img.shields.io/badge/Computer-Vision-075985?style=flat-square" alt="Computer Vision" />
-</p>
-
----
-
-## <img src="https://cdn.simpleicons.org/minutemailer/38bdf8" width="24" align="center"/> &nbsp;Connect with Me
+</div>
 
 <p align="center">
-  <a href="mailto:lenhathuy219@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/LeNhatHuy219">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Data%20Analysis-0F172A?style=flat-square&logo=googleanalytics&logoColor=38BDF8" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0369A1?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-075985?style=flat-square&logo=semanticweb&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-020617?style=flat-square&logo=opencv&logoColor=38BDF8" alt="Computer Vision" />
 </p>
 
 ---
@@ -149,7 +139,7 @@ open_to    :
 ## <img src="https://cdn.simpleicons.org/githubactions/38bdf8" width="24" align="center"/> &nbsp;Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeNhatHuy219&bg_color=020617&color=bfdbfe&line=38bdf8&point=60a5fa&area=true&area_color=2563eb&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeNhatHuy219&theme=react-dark&hide_border=true&bg_color=020617&color=bfdbfe&title_color=38bdf8&line=38bdf8&point=60a5fa&area=true&v=2" alt="GitHub Activity Graph" />
 </p>
 
 ---
