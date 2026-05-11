@@ -16,9 +16,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## <img src="https://cdn.simpleicons.org/apachespark/a78bfa" width="24" align="center"/> &nbsp;About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```yaml
 name       : Le Nhat Huy
@@ -37,7 +39,12 @@ currently  :
 open_to    : Internships, Collaborations, Open Source
 ```
 
-<br clear="right"/>
+</td>
+<td valign="center" width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
