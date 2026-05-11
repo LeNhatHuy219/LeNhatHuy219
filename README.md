@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Le%20Nhat%20Huy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Enthusiast%20%7C%20Data%20Analyst%20%7C%20ML%20Learner&descSize=18&descAlignY=56&descColor=c9b8ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f4d,70:7c2d92,100:ff4fd8&height=240&section=header&text=Le%20Nhat%20Huy&fontSize=52&fontColor=fdf2f8&animation=fadeIn&fontAlignY=36&desc=AI%20Enthusiast%20%7C%20Data%20Analyst%20%7C%20ML%20Learner&descSize=18&descAlignY=56&descColor=f9a8d4" alt="Header" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+ML+models+from+scratch;Exploring+Computer+Vision;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+ML+models+from+scratch;Exploring+Computer+Vision;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeNhatHuy219&label=Profile%20Views&color=7c3aed&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=LeNhatHuy219&label=Profile%20Views&color=ec4899&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/LeNhatHuy219?label=Followers&style=flat-square&color=7c3aed" />
+  <img src="https://img.shields.io/github/followers/LeNhatHuy219?label=Followers&style=flat-square&color=ec4899" alt="GitHub Followers" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/apachespark/a78bfa" width="24" align="center"/> &nbsp;About Me
+## <img src="https://cdn.simpleicons.org/apachespark/f472b6" width="24" align="center"/> &nbsp;About Me
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="100%">
 
 ```yaml
 name       : Le Nhat Huy
@@ -45,88 +45,95 @@ open_to    : Internships, Collaborations, Open Source
 
 ---
 
-## <img src="https://cdn.simpleicons.org/minutemailer/a78bfa" width="24" align="center"/> &nbsp;Connect with Me
+## <img src="https://cdn.simpleicons.org/minutemailer/f472b6" width="24" align="center"/> &nbsp;Connect with Me
 
 <p align="center">
   <a href="mailto:lenhathuy219@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Gmail-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/LeNhatHuy219">
-    <img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/stackexchange/a78bfa" width="24" align="center"/> &nbsp;Tech Stack
+## <img src="https://cdn.simpleicons.org/stackexchange/f472b6" width="24" align="center"/> &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,c,mysql,mongodb,postgres,sklearn,tensorflow,pytorch,opencv,anaconda,vscode,git,github,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,mysql,mongodb,postgres,sklearn,tensorflow,pytorch,opencv,anaconda,vscode,git,github,docker&perline=8" alt="Tech Stack" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/anaconda/a78bfa" width="24" align="center"/> &nbsp;Data & AI Toolkit
+## <img src="https://cdn.simpleicons.org/anaconda/f472b6" width="24" align="center"/> &nbsp;Data & AI Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-F472B6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=020617" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-EC4899?style=for-the-badge&logo=numpy&logoColor=white&labelColor=020617" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF4FD8?style=for-the-badge&logo=python&logoColor=white&labelColor=020617" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-DB2777?style=for-the-badge&logo=python&logoColor=white&labelColor=020617" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Power%20BI-1E3A8A?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=020617" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Google%20Colab-7C2D92?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=020617" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jupyter-0B1F4D?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=020617" alt="Jupyter" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/todoist/a78bfa" width="24" align="center"/> &nbsp;Focus Areas
+## <img src="https://cdn.simpleicons.org/todoist/f472b6" width="24" align="center"/> &nbsp;Focus Areas
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/googleanalytics/a78bfa" width="36"/><br/>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/googleanalytics/f472b6" width="36" alt="Data Analysis"/><br/>
       <b>Data Analysis</b><br/>
       <sub>Exploratory & Statistical</sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/tensorflow/a78bfa" width="36"/><br/>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/tensorflow/f472b6" width="36" alt="Machine Learning"/><br/>
       <b>Machine Learning</b><br/>
       <sub>Supervised & Unsupervised</sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/grafana/a78bfa" width="36"/><br/>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/grafana/f472b6" width="36" alt="Data Visualization"/><br/>
       <b>Data Visualization</b><br/>
       <sub>Charts, Dashboards</sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/pytorch/a78bfa" width="36"/><br/>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/pytorch/f472b6" width="36" alt="Predictive Modeling"/><br/>
       <b>Predictive Modeling</b><br/>
       <sub>Regression & Classification</sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/opencv/a78bfa" width="36"/><br/>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/opencv/f472b6" width="36" alt="Computer Vision"/><br/>
       <b>Computer Vision</b><br/>
       <sub>OpenCV & Deep Learning</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.simpleicons.org/githubactions/f472b6" width="36" alt="Open Source"/><br/>
+      <b>Open Source</b><br/>
+      <sub>Learning & Contributing</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/duolingo/a78bfa" width="24" align="center"/> &nbsp;GitHub Streak
+## <img src="https://cdn.simpleicons.org/duolingo/f472b6" width="24" align="center"/> &nbsp;GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeNhatHuy219&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=7c6fa0" />
+  <img src="https://streak-stats.demolab.com?user=LeNhatHuy219&hide_border=true&background=020617&ring=f472b6&fire=ff4fd8&currStreakLabel=f9a8d4&sideLabels=dbeafe&dates=93c5fd&sideNums=fdf2f8&currStreakNum=fdf2f8" alt="GitHub Streak" />
 </p>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/githubactions/a78bfa" width="24" align="center"/> &nbsp;Activity Graph
+## <img src="https://cdn.simpleicons.org/githubactions/f472b6" width="24" align="center"/> &nbsp;Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeNhatHuy219&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeNhatHuy219&bg_color=020617&color=f9a8d4&line=f472b6&point=93c5fd&area=true&area_color=ec4899&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -136,5 +143,5 @@ open_to    : Internships, Collaborations, Open Source
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,30:7c2d92,65:0b1f4d,100:020617&height=140&section=footer" alt="Footer" />
 </p>
