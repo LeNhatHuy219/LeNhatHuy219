@@ -132,16 +132,6 @@ Deep Learning -> NLP         -> Computer Vision
   <img src="https://streak-stats.demolab.com?user=LeNhatHuy219&hide_border=true&background=020617&ring=ec4899&fire=f472b6&currStreakLabel=fbcfe8&sideLabels=fce7f3&dates=f9a8d4&sideNums=f8fafc&currStreakNum=f8fafc" alt="GitHub Streak" />
 </p>
 
----
-
-## <img src="https://cdn.simpleicons.org/githubactions/ec4899" width="24" align="center"/> &nbsp;Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeNhatHuy219&theme=react-dark&hide_border=true&bg_color=020617&color=fbcfe8&title_color=ec4899&line=ec4899&point=f472b6&area=true&v=2" alt="GitHub Activity Graph" />
-</p>
-
----
-
 <p align="center">
   <i>"Every dataset tells a story. My job is to find it."</i>
 </p>
